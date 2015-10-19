@@ -1,3 +1,3 @@
-# project_euler
+# project euler
 
 When I can't sleep
