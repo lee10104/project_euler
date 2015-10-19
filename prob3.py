@@ -1,3 +1,5 @@
+# Problem 3: Largest prime factor
+
 import itertools
 
 def is_prime(num):

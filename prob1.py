@@ -1,3 +1,5 @@
+# Problem 1: Multiples of 3  and 5
+
 result = 0
 
 for i in range(1000):
